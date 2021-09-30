@@ -257,7 +257,7 @@ window.snake.scheme = function(settings = {}) {
         
         if(settings.burger || settings.cactus || settings.hotdog || settings.egg || settings.lime || settings.red_pepper) {
           let burg = new Image();
-          burg.src = 'https://i.postimg.cc/B6ycxmBb/porga.png';
+          burg.src = 'https://postimg.cc/F74snDNN';
           burg.width = burg.height = 47;
           burg.className = 'DqMRee SsAred';
 
